@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Princess+Sofia|Open+Sans');
+
+body {
+/*  background: url('https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRuPqMkswFPP1Tb0AGHUr7Ypl6V8n3f5uJHWLcUjCoPCEaVlTEa'); */
+  background: url('http://wallpaperdownload.xyz/wp-content/uploads/2016/11/avatar-the-last-airbender-wallpaper3.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color: white;
+  font-family: Open sans ;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 56px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 45px;
+}
+ h3 {
+   font-size:16px;
+   font-weight: lighter;
+ }
+
+p, ul {
+  color: white;
+  width: 80%;
+  margin: auto;
+  padding-bottom: 20px;
+  font-family: Open Sans;
+}
+
+a {
+  color: red;
+}
+
+.button-container {
+  text-align: center;
+  margin: auto;
+  padding: 0;
+}
+
+.quizarea {
+  background-color: rgba(85, 50, 130, 0.5);
+}
+
+button {
+  display: inline-block;
+  margin: auto;
+  font-size: 20px;
+}
+
+div {
+  padding: 20px;
+  margin: auto;
+  margin-bottom: 40px;
+  font-size: 16px;
+  width: 80%;
+}
+
+#result {
+  color: white;
+  text-align: center;
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 50px;
+  font-weight: bold;
+}
